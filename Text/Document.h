@@ -9,5 +9,6 @@
 #import <Cocoa/Cocoa.h>
 
 @interface Document : NSDocument
+@property (strong) IBOutlet NSTextView *myTextView;
 
 @end
