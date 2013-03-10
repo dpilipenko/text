@@ -1,5 +1,6 @@
-Text - Dima Pilipenko
+Text
 ====
+Dima Pilipenko
 
 The goal was to make a lightweight featureless text editor that launches quickly, can 
 read/write text files, and requires minimal resources.
